@@ -94,4 +94,4 @@ If you adapt this skill for a specific field and it works well, pull requests ar
 
 ## Credits
 
-Developed by [Ana](https://anabusinesshelp.github.io/anabusinesshelpBR/) based on her experience as a postgraduate researcher in consumer behavior and data analysis. Style calibration draws on published work in the *Journal of Consumer Behaviour* and *Journal of Consumer Psychology*.
+Developed by Ana based on her experience as a postgraduate researcher in consumer behavior and data analysis. Style calibration draws on published work in the *Journal of Consumer Behaviour* and *Journal of Consumer Psychology*.
